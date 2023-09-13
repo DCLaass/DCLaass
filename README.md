@@ -20,11 +20,3 @@ Sempre tive interesse pelas áreas de Tecnologia da Informação e na busca por 
 DCLaass/DCLaass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> DCLaass Spotify Data Card</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/card?user_id=coimbra.doglas" alt="Spotify Data Card">
-</details>
-</div>
-
-
