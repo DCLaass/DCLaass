@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Douglas Coimbra, sou de Belo Horizonte/ MG. 
-- 👀 Atualmente cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitario Newton Paiva.
+- 👀 Atualmente cursando Análise e Desenvolvimento de Sistemas pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitario Newton Paiva</a> .
 
 
 <!---
