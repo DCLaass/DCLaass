@@ -1,3 +1,7 @@
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/90ca25d9-022e-4a73-97df-fcf49082363a.png"/>
+</div>
+
 - 👋 Olá, meu nome é Douglas Coimbra, sou de Belo Horizonte/ MG. 
 - 👀 Atualmente cursando Análise e Desenvolvimento de Sistemas pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitario Newton Paiva</a> .
 
