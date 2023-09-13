@@ -17,7 +17,7 @@
 <a href="mailto:coimbra.douglas@icloud.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-<a href="https://www.instagram.com/coimbra.douglas" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
+<a href="https://www.linkedin.com/in/douglas-coimbra-55b047269/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </table>
 </div>
