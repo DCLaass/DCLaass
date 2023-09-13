@@ -27,7 +27,4 @@ You can click the Preview link to take a look at your changes.
 </details>
 </div>
 
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://data-card-for-spotify.herokuapp.com/card?user_id=coimbra.doglas"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://data-card-for-spotify.herokuapp.com/card?user_id=coimbra.doglas"/>
-</div>
+
