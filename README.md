@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/90ca25d9-022e-4a73-97df-fcf49082363a.png"/>
+<img align="center" alt="90ca25d9-022e-4a73-97df-fcf49082363a" src="https://github.com/DCLaass/DCLaass/blob/main/90ca25d9-022e-4a73-97df-fcf49082363a.png"/>
 </div>
 
 - 👋 Olá, meu nome é Douglas Coimbra, sou de Belo Horizonte/ MG. 
